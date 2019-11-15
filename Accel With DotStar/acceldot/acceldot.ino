@@ -1,5 +1,9 @@
-
-// Basic demo for accelerometer readings from Adafruit LIS3DH
+/*
+ * Code for Adafruit Trinket M0 using Adafruit LIS3DH accelerometer.
+ * 
+ * Code written by Alex Pingault and Adafruit
+ * 
+ */
 
 #include <Wire.h>
 #include <SPI.h>
